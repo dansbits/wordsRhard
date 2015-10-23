@@ -1,0 +1,14 @@
+Package: wordsRhard
+Type: Package
+Title: Basic Text Manipulation and Metrics
+Version: 0.1
+Date: 2015-10-20
+Authors@R: person("Dan", "Carpenter", email = "daniel.carpenter01@gmail.com", role = c("aut", "cre"))
+Description: Provides some utility functions for basic text manipulation and
+    metrics.
+URL: https://github.com/dansbits/wordsRhard
+BugReports: https://github.com/dansbits/wordsRhard/issues
+License: MIT + file LICENSE
+LazyData: TRUE
+RoxygenNote: 4.1.1.9001
+Suggests: testthat
